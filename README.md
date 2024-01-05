@@ -5,12 +5,6 @@
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript) ![Static Badge](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/NodeJS-green?style=flat&logo=node.JS&logoColor=white) ![Static Badge](https://img.shields.io/badge/ExpressJS-black?style=flat&logo=express&logoColor=white) ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/NextJS-black?style=flat&logo=next.js&logoColor=white)
 
-
-
-
-
- / TypeScript / React / NextJS / NodeJS / ExpressJS
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NextJS 
 - 👯 I’m looking to collaborate on awesome projects 
