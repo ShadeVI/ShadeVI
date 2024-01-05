@@ -10,14 +10,8 @@
 - 👯 I’m looking to collaborate on awesome projects 
 - 🔭 I’m currently working on this page.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShadeVI)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadeVI&show_icons=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ShadeVI)  
-
-<a href="https://github.com/ShadeVI/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadeVI" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadeVI&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=ShadeVI)  
