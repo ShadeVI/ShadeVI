@@ -29,8 +29,8 @@ ____
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShadeVI)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats-neon-one-53.vercel.app/api/top-langs/?username=ShadeVI&hide_progress=true)
+![ShadeVI's Stats](https://github-readme-stats-neon-one-53.vercel.app/api?username=ShadeVI&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub stats](https://github-readme-stats-neon-one-53.vercel.app/api?username=ShadeVI&show_icons=true&count_private=true)
+![ShadeVI's Streak](https://streak-stats.demolab.com?user=ShadeVI&theme=vue-dark&hide_border=true&mode=weekly)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ShadeVI)
+![ShadeVI's Top Languages](https://github-readme-stats-neon-one-53.vercel.app/api/top-langs/?username=ShadeVI&theme=vue-dark&show_icons=true&hide_progress=true&hide_border=true&layout=compact)
