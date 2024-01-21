@@ -18,6 +18,7 @@ ____
 | ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) | ![Static Badge](https://img.shields.io/badge/ExpressJS-white?style=for-the-badge&logo=express&logoColor=black) | ![Static Badge](https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=next.js&logoColor=black) | ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Static Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white) |
 | ![Static Badge](https://img.shields.io/badge/Styled--Components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) | | |  ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Static Badge](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=%23007ACC) |
 | | | | | ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
+| | | | |![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira&logoColor=white) |
   
 ____
 
