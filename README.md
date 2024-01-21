@@ -19,6 +19,7 @@ ____
 | ![Static Badge](https://img.shields.io/badge/Styled--Components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) | | |  ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Static Badge](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=%23007ACC) |
 | | | | | ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
 | | | | |![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira&logoColor=white) |
+| | ![Static Badge](https://img.shields.io/badge/OpenJDK-%23437291?style=for-the-badge&logo=OpenJDK&logoColor=white) | | | |
   
 ____
 
