@@ -1,5 +1,8 @@
-## Hi there 👋, my name is Manuel
-#### I am a Fullstack Javascript Web Developer
+<div align="center">
+<h1>Hi there 👋, my name is Manuel</h1>
+<h3>I am a Fullstack Javascript Web Developer</h3>
+</div>
+  
 ![Copia de Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/ShadeVI/ShadeVI/assets/51008073/6d981557-8604-4552-b7f7-e7eddb39bb41)
 
 
@@ -17,8 +20,10 @@ My focus lies in creating interactive web applications. Driven by a commitment t
 </div>
 
 ____
-### SuperPowers
 
+<div align="center">
+<h3>SuperPowers</h3>
+  
 | Frontend    | Backend     | FullStack    | Databases  | Softwares |
 | :---: | :---: | :---: | :---: | :---: |
 | ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=visual%20studio%20code&logoColor=black&labelColor=%23F7DF1E) | ![Static Badge](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.JS&logoColor=white) | ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) | ![Static Badge](https://img.shields.io/badge/mySQL-lightblue?style=for-the-badge&logo=mysql&logoColor=black) | ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032) |
@@ -27,15 +32,21 @@ ____
 | | | | | ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
 | | | | |![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira&logoColor=white) |
 | | | | | |
-  
-____
 
-- 🖥️ I'm currently working at 2Coders Studio (Internship)
-- 🌱 I’m currently learning NextJS 
-- 👯 I’m looking to collaborate on awesome projects 
-- 🔭 I’m currently working on this page.
+</div>
 
 ____
+
+<div align="center">
+<p>🖥️ I'm currently working at 2Coders Studio (Internship)</p>
+<p>🌱 I’m currently learning NextJS</p>
+<p>👯 I’m looking to collaborate on awesome projects</p> 
+<p>🔭 I’m currently working on this page.</p>
+</div>
+
+____
+
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShadeVI)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -44,3 +55,5 @@ ____
 ![ShadeVI's Streak](https://streak-stats.demolab.com?user=ShadeVI&theme=vue-dark&hide_border=true&mode=weekly)
 
 ![ShadeVI's Top Languages](https://github-readme-stats-neon-one-53.vercel.app/api/top-langs/?username=ShadeVI&theme=vue-dark&show_icons=true&hide_progress=true&hide_border=true&layout=compact)
+
+</div>
