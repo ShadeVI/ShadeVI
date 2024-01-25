@@ -1,6 +1,7 @@
 ## Hi there 👋, my name is Manuel
 #### I am a Fullstack Javascript Web Developer
-![I am Fullstack Javascript Web Developer](https://media.licdn.com/dms/image/D4D16AQEOZIUCeckSNA/profile-displaybackgroundimage-shrink_350_1400/0/1704116346557?e=1709769600&v=beta&t=LtRqZH3-BHRhqLoIXiAPNjjNp0DA1-Y7CH-4bO1UIpA)
+![Copia de Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/ShadeVI/ShadeVI/assets/51008073/6d981557-8604-4552-b7f7-e7eddb39bb41)
+
 
 Based in the Canary Islands, I am a junior web developer with a strong foundation in self-taught JavaScript.
 I am eager to apply and expand my skills in a dynamic professional environment.
