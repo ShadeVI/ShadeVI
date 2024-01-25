@@ -6,8 +6,14 @@ Based in the Canary Islands, I am a junior web developer with a strong foundatio
 I am eager to apply and expand my skills in a dynamic professional environment.
 My focus lies in creating interactive web applications. Driven by a commitment to continuous learning, I am ready to contribute to collaborative teams and grow in the field of web development.
 
-### Contact me 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanuel-tomasino%2F)
+<div align="center">
+<h2>Contact me</h2> 
+  
+<a href="https://www.linkedin.com/in/manuel-tomasino">![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanuel-tomasino%2F)</a>
+<a href="https://discordapp.com/users/332844325157470210">![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F332844325157470210)</a>
+<a href="https://t.me/SSHadeVI">![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FSSHadeVI)</a>
+
+</div>
 
 ____
 ### SuperPowers
