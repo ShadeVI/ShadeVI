@@ -9,9 +9,9 @@ My focus lies in creating interactive web applications. Driven by a commitment t
 <div align="center">
 <h2>Contact me</h2> 
   
-<a href="https://www.linkedin.com/in/manuel-tomasino">![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanuel-tomasino%2F)</a>
-<a href="https://discordapp.com/users/332844325157470210">![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F332844325157470210)</a>
-<a href="https://t.me/SSHadeVI">![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FSSHadeVI)</a>
+<a href="https://www.linkedin.com/in/manuel-tomasino" target="_blank">![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanuel-tomasino%2F)</a>
+<a href="https://discordapp.com/users/332844325157470210" target="_blank">![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F332844325157470210)</a>
+<a href="https://t.me/SSHadeVI" target="_blank">![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FSSHadeVI)</a>
 
 </div>
 
