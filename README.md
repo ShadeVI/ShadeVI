@@ -39,7 +39,7 @@ ____
 
 <div align="center">
 <p>🖥️ I'm currently working at 2Coders Studio (Internship)</p>
-<p>🌱 I’m currently learning NextJS</p>
+<p>🌱 I’m currently learning React Native</p>
 <p>👯 I’m looking to collaborate on awesome projects</p> 
 <p>🔭 I’m currently working on this page.</p>
 </div>
