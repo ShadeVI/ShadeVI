@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi there 👋, my name is Manuel</h1>
-<h3>I am a Fullstack Javascript Web Developer</h3>
+<h3>I am a Fullstack Javascript  Developer</h3>
 </div>
   
 ![Copia de Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/ShadeVI/ShadeVI/assets/51008073/6d981557-8604-4552-b7f7-e7eddb39bb41)
@@ -39,7 +39,7 @@ ____
 
 <div align="center">
 <p>🖥️ I'm currently and actively looking for job. Contact me if you like my profile.</p>
-<p>🌱 I’m currently learning React Native</p>
+<p>🌱 I’m currently learning React Native and developing an app for a restaurant</p>
 <p>👯 I’m looking to collaborate on awesome projects</p> 
 <p>🔭 I’m currently working on this page.</p>
 </div>
