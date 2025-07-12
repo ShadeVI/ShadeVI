@@ -38,8 +38,8 @@ ____
 ____
 
 <div align="center">
-<p>🖥️ I'm currently and actively looking for job. Contact me if you like my profile.</p>
-<p>🌱 I’m currently learning React Native and developing an app for a restaurant</p>
+<p>🖥️ I'm currently working in Winfor.</p>
+<p>🌱 I’m currently learning Angular 20</p>
 <p>👯 I’m looking to collaborate on awesome projects</p> 
 <p>🔭 I’m currently working on this page.</p>
 </div>
